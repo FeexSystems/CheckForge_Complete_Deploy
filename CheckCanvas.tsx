@@ -1,0 +1,1 @@
+// React check canvas component

@@ -1,0 +1,1 @@
+// Supabase check logging boilerplate

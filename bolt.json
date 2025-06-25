@@ -1,0 +1,11 @@
+{
+  "name": "CheckForge",
+  "description": "AI-powered check generation system with Supabase, GPT, and voice intent",
+  "entry": "phase4/intent-server.js",
+  "env": {
+    "SUPABASE_URL": "",
+    "SUPABASE_KEY": "",
+    "SMTP_USER": "",
+    "SMTP_PASS": ""
+  }
+}
